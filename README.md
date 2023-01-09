@@ -19,7 +19,7 @@ Made with :heart: by:
 | Person             | Role         |                                                                 GitHub                                                                 |
 | -------------------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------: |
 | 1. Tarik HARDA | Creator      | [<img src="https://avatars.githubusercontent.com/u/122157954?v=4" style="width:50px">](https://github.com/Tarik-Harda) |
-| 2. Anouar DERDOURI | Creator      | [<img src="https://avatars.githubusercontent.com/u/118266778?v=4" style="width:50px">](https://github.com/anouar-derdouri-development) |
+| 2. Anouar DERDOURI | Collaborator      | [<img src="https://avatars.githubusercontent.com/u/118266778?v=4" style="width:50px">](https://github.com/anouar-derdouri-development) |
 | 3. Raouan EDDOURRI | Collaborator | [<img src="https://avatars.githubusercontent.com/u/118313410?v=4" style="width:50px">](https://github.com/raouan-eddourri-development) |
 | 4. Hassan ALAOUI   | Contributor  |  [<img src="https://avatars.githubusercontent.com/u/120211861?v=4" style="width:50px">](https://github.com/i-am-a-software-developer)  |
 
